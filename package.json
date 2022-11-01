@@ -1,0 +1,13 @@
+{
+    "name": "docker-training",
+    "version": "1.0.0",
+    "description": "containerizing a simple node.js app",
+    "author": "Melkye",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+      },
+      "dependencies": {
+        "express": "^4.18.1"
+      }
+  }
